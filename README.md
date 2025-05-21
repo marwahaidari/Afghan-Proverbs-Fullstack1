@@ -79,6 +79,7 @@ afghan-proverbs-api/
 │ ├── show.ejs
 │ ├── edit.ejs
 │ └── new.ejs
+  └── searchResult.ejs
 ├── routes/
 │ └── postRoutes.js
 ├── data/
@@ -94,8 +95,25 @@ all proverbs:
 https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb1.png
 
 
-### ScreenShot Of Site:
+add new post:
+
+https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb2.png
 
 
-All Proverbs:
+view detail a proverb
+https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb3.png
+
+view proverb by ID
+https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb4.png
+
+
+edit proverbs
+http://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb5.png
+
+
+delete a proverb
+https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb6.png
+
+
+
 
