@@ -88,7 +88,10 @@ afghan-proverbs-api/
 └── package.json
 
 
+## ScreenShot of output:
 
+all proverbs:
+https://github.com/marwahaidari/Afghan-Proverbs-Fullstack1/blob/main/images/proverb1.png
 
 
 ### ScreenShot Of Site:
